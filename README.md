@@ -50,4 +50,4 @@ Here are the exercises available in this repository:
 Feel free to explore the repository and the different exercises available. The JavaScript code and its results can be found in the `arrays.js` file.
 
 Happy coding!
-```
+
